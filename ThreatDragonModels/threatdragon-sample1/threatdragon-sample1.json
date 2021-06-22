@@ -5,7 +5,11 @@
     "description": "threatdragon-sample1"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "gsatyadev"
+      }
+    ],
     "diagrams": [
       {
         "title": "threatdragon-sample1",
